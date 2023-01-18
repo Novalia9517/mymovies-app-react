@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Movie App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built with React, React-redux and Tailwindcss use the API from mobiedb API
+You can see the web [here](https://mymovies-app-react-git.vercel.app/detail).
 
-## Available Scripts
+## The feature in this project
+In this web you could see :
+- :list List of Playing Movies, Upcoming Movies and Trending Movies
+- :list Can see the detail of every movies
+- :eye Can see the trailer or treasure of every movies
+- :love Can add movie to Favorite list
+- : Dark mode feature
 
-In the project directory, you can run:
+### 🛠️Built With
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/DaisyUi-FFFF00?style=for-the-badge&logo=daisyui&logoColor=white" />
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Alta-Capstone-Grup2/Frontend.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
 
-### `npm run eject`
+### Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```sh
+npm run dev
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 🛠️Contact me in :
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![LinkedIn](https://img.shields.io/badge/-Novalia-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nova-lia-53b911261/)
