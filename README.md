@@ -1,5 +1,9 @@
 # Movie App
 
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/116619590/213873646-976ec5e4-bbdb-41e4-a9ba-57c635b0eea5.png'/>
+</div>
+
 This project was built with React, React-redux and Tailwindcss use the API from mobiedb API
 You can see the web [here](https://mymovies-app-react-git.vercel.app/).
 
