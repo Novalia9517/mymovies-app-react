@@ -1,15 +1,15 @@
 # Movie App
 
 This project was built with React, React-redux and Tailwindcss use the API from mobiedb API
-You can see the web [here](https://mymovies-app-react-git.vercel.app/detail).
+You can see the web [here](https://mymovies-app-react-git.vercel.app/).
 
 ## The feature in this project
 In this web you could see :
-- :list List of Playing Movies, Upcoming Movies and Trending Movies
-- :list Can see the detail of every movies
-- :eye Can see the trailer or treasure of every movies
-- :love Can add movie to Favorite list
-- : Dark mode feature
+- List of Playing Movies, Upcoming Movies and Trending Movies
+- Can see the detail of every movies
+- Can see the trailer or treasure of every movies
+- Can add movie to Favorite list
+- Dark mode feature
 
 ### 🛠️Built With
 
